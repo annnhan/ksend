@@ -1,0 +1,30 @@
+{
+  "name": "ksend",
+  "version": "0.0.0",
+  "description": "命令行推送个人文档到kindle。",
+  "main": "index.js",
+  "bin": "./src/run",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanan198501/ksend.git"
+  },
+  "keywords": [
+    "kindle",
+    "ksend"
+  ],
+  "author": "韩安",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanan198501/ksend/issues"
+  },
+  "homepage": "https://github.com/hanan198501/ksend",
+  "dependencies": {
+    "archiver": "^0.13.0",
+    "nodemailer": "^1.3.0",
+    "nodemailer-smtp-transport": "^0.1.13",
+    "optimist": "^0.6.1"
+  }
+}
