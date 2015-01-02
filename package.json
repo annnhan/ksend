@@ -1,6 +1,6 @@
 {
   "name": "ksend",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "命令行推送个人文档到kindle。",
   "main": "index.js",
   "bin": "./src/cli.js",
