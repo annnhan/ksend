@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "description": "命令行推送个人文档到kindle。",
   "main": "index.js",
-  "bin": "./src/cli.js",
+  "bin": "bin/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
