@@ -31,6 +31,4 @@ ksend
 
     ksend a.pdf b.pdf ../img/photo.jpg /Users/hanan/book/ooxx.txt
 
-**备注**
-
-- 记得把发送邮箱添加到您的kindle已认可的发件人电子邮箱列表哦
+ps: 记得把发送邮箱添加到您的kindle已认可的发件人电子邮箱列表哦
