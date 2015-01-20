@@ -7,7 +7,7 @@ ksend
 
 1. 安装
 
-        npm install ksend -g
+        npm install -g ksend
 
 2. 设置默认发送邮箱，格式: 邮箱地址:密码
 
