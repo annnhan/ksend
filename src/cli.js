@@ -74,7 +74,7 @@ module.exports = function () {
             }
             ksend.send({
                 to: to,
-                //subject: attachments[0].filename.split('.')[0],
+                subject: 'convert',
                 attachments: zipAttachments
             }, function (error, info) {
                 removeTempFile(zipAttachments);
