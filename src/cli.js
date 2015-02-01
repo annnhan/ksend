@@ -9,7 +9,7 @@ var Ksend = require('./ksend');
 var util = require('./util');
 
 var ksend = new Ksend();
-var pwd = process.env.PWD;
+var pwd = process.env.PWD || process.cwd();
 var argv = optimist.argv;
 
 module.exports = function () {
